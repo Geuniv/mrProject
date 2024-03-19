@@ -9,15 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a55d5b8-9994-4792-86f7-3e9b2d4bb5d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mr.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="1a55d5b8-9994-4792-86f7-3e9b2d4bb5d4" name="Changes" comment="2024.03.18 빅데이터처리실습">
       <change afterPath="$PROJECT_DIR$/src/main/java/kopo/WordCount.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/kopo/WordCountMapper.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/kopo/WordCountReducer.java" afterDir="false" />
@@ -60,7 +52,7 @@
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "IntelliLang.Configuration",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -94,12 +86,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710741998722</updated>
-      <workItem from="1710741999792" duration="7293000" />
+      <workItem from="1710741999792" duration="7811000" />
     </task>
+    <task id="LOCAL-00001" summary="2024.03.18 빅데이터처리실습">
+      <option name="closed" value="true" />
+      <created>1710749467162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710749467162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2024.03.18 빅데이터처리실습" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.03.18 빅데이터처리실습" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
