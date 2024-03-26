@@ -9,10 +9,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a55d5b8-9994-4792-86f7-3e9b2d4bb5d4" name="Changes" comment="2024.03.18 빅데이터처리실습">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kopo/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kopo/WordCountMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kopo/WordCountReducer.java" afterDir="false" />
+    <list default="true" id="1a55d5b8-9994-4792-86f7-3e9b2d4bb5d4" name="Changes" comment="2024.03.19 빅데이터처리실습 ( 하둡 )">
+      <change afterPath="$PROJECT_DIR$/src/main/java/kopo/cc/CharCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kopo/cc/CharCountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kopo/cc/CharCountReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kopo/ip/IPCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kopo/ip/IPCountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kopo/ip/IPCountReducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kopo/WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kopo/wc/WordCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kopo/WordCountMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kopo/wc/WordCountMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kopo/WordCountReducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kopo/wc/WordCountReducer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +36,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2dqiR6FWcmSzrr3Yx0PMTcALCLP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,6 +51,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/HadoopWorks/mrProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,7 +60,7 @@
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java",
+    "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -87,6 +95,8 @@
       <option name="presentableId" value="Default" />
       <updated>1710741998722</updated>
       <workItem from="1710741999792" duration="7811000" />
+      <workItem from="1710826659527" duration="1381000" />
+      <workItem from="1711340238121" duration="6527000" />
     </task>
     <task id="LOCAL-00001" summary="2024.03.18 빅데이터처리실습">
       <option name="closed" value="true" />
@@ -96,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710749467162</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2024.03.19 빅데이터처리실습 ( 하둡 )">
+      <option name="closed" value="true" />
+      <created>1710826687002</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710826687002</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +122,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2024.03.18 빅데이터처리실습" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.03.18 빅데이터처리실습" />
+    <MESSAGE value="2024.03.19 빅데이터처리실습 ( 하둡 )" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.03.19 빅데이터처리실습 ( 하둡 )" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
